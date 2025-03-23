@@ -1,6 +1,6 @@
 # Black-Venom
 # No<p align="center">
-  <img src="img/nhr.png">
+  <img src="img/Venom1black_2048x.jpg">
 </p>
 
 <p align="center"><b> Custom termux apt repository  </b></p>
