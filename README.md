@@ -1,8 +1,5 @@
 # Black-Venom
-# No<p align="center">
-  <img src="img/Venom1black_2048x.jpg">
-</p>
-
+![Black Venom](https://raw.githubusercontent.com/Code-with-Rajan/Black-Venom/main/Venom1black_2048x.jpg)
 <p align="center"><b> Custom termux apt repository  </b></p>
 
 Black-Venom:- A custom Termux repository for beginners to explore ethical hacking tools
